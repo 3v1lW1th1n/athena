@@ -1,18 +1,18 @@
 
 # SEO
-title: Swiss Jekyll Theme
+title: 3v1lW1th1n
 description: A bold typographic theme inspired by Swiss design.
 
 # social
 social_link: twitter
-social_username: broccolini
+social_username: 3v1lW1th1n
 github_repo: athena # the GitHub repo name for your project
-github_username: broccolini
-theme_color: black
+github_username: 3v1lW1th1n
+theme_color: blue
 
 # Theme
-remote_theme: 'internet-de-france/swiss'
-baseurl: '/apex_preditor'
+remote_theme: '3v1lW1th1n/athena'
+baseurl: '/athena'
 
 # Defaults
 
